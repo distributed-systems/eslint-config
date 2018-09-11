@@ -1,6 +1,6 @@
 {
   "name": "@distributed-systems/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configuartion for distributed-systems",
   "main": "eslint-config.js",
   "scripts": {
