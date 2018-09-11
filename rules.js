@@ -19,6 +19,9 @@ module.exports = {
         'indent': [
             'error',
             4,
+            {
+                'SwitchCase': 1
+            }
         ],
         'no-await-in-loop': 'off',
         'no-else-return': 'off',
