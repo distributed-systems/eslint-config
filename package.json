@@ -1,6 +1,6 @@
 {
   "name": "@distributed-systems/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint configuartion for distributed-systems",
   "main": "eslint-config.js",
   "scripts": {
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/distributed-systems/eslint-config#readme",
   "dependencies": {
-    "eslint": "^5.5.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2"
   }
 }
